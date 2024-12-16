@@ -3,6 +3,12 @@
 ## Overview
 This project involves creating a 3D model of a human face from a 2D image. It uses several libraries including Open3D, PyVista, MTCNN, and the Dense Prediction Transformer (DPT) model from Intel. The goal is to take a 2D image of a face and transform it into a 3D model that can be used for various applications.
 
+[![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/li812/3D-Face-Recontructor/blob/main/main.ipynb)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.0+-red)](https://pytorch.org/)
+[![Open3D](https://img.shields.io/badge/Open3D-0.15+-green)](http://www.open3d.org/)
+
 ## Use Cases
 
 This project can be used for a variety of applications, including but not limited to:
